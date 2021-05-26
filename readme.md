@@ -33,4 +33,4 @@ https://docs.docker.com/compose/reference
 
 ## Autor
 
-- [@giovanigenerali](https://github.com/giovanigenerali)
+- [@tiagomassena](https://github.com/tiagomassena)
